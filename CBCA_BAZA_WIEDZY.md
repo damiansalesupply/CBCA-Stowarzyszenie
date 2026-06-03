@@ -248,6 +248,10 @@ CBCA MOJE STOWARZYSZENIE/
 │   ├── CBCA | Dane maili (doc - dostępy)
 │   ├── Nikola Ilchev | Expert Form (przykład)
 │   ├── meeting notes: 11.09.2025 - Marketing plan.docx
+│   ├── Notatka_EMAG_strategia_25-05-2026.md — strategia podejścia do EMAG (Damian + Marcin)
+│   ├── Notatka_EMAG_oferta_03-06-2026.md — oferta robocza EMAG, budżet, KPI (Damian + Marcin + Maciej)
+│   ├── Transkrypt_spotkanie_Marcin_Maciej_Damian_03-06-2026.txt — pełny transkrypt spotkania 03.06.2026
+│   └── Oferta_EMAG_roboczy_03-06-2026.xlsx — roboczy Excel z wyceną oferty dla eMAG
 │   ├── Experts - photos and others/
 │   ├── Events/
 │   ├── Expert Materials/
